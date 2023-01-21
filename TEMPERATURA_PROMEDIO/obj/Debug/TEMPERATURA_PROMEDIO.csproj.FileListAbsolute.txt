@@ -1,0 +1,11 @@
+C:\Users\braul\source\repos\PRACT1\TEMPERATURA_PROMEDIO\obj\Debug\TEMPERATURA_PROMEDIO.csproj.AssemblyReference.cache
+C:\Users\braul\source\repos\PRACT1\TEMPERATURA_PROMEDIO\obj\Debug\TEMPERATURA_PROMEDIO.csproj.SuggestedBindingRedirects.cache
+C:\Users\braul\source\repos\PRACT1\TEMPERATURA_PROMEDIO\obj\Debug\TEMPERATURA_PROMEDIO.Form1.resources
+C:\Users\braul\source\repos\PRACT1\TEMPERATURA_PROMEDIO\obj\Debug\TEMPERATURA_PROMEDIO.Properties.Resources.resources
+C:\Users\braul\source\repos\PRACT1\TEMPERATURA_PROMEDIO\obj\Debug\TEMPERATURA_PROMEDIO.csproj.GenerateResource.cache
+C:\Users\braul\source\repos\PRACT1\TEMPERATURA_PROMEDIO\obj\Debug\TEMPERATURA_PROMEDIO.csproj.CoreCompileInputs.cache
+C:\Users\braul\source\repos\PRACT1\TEMPERATURA_PROMEDIO\bin\Debug\TEMPERATURA_PROMEDIO.exe.config
+C:\Users\braul\source\repos\PRACT1\TEMPERATURA_PROMEDIO\bin\Debug\TEMPERATURA_PROMEDIO.exe
+C:\Users\braul\source\repos\PRACT1\TEMPERATURA_PROMEDIO\bin\Debug\TEMPERATURA_PROMEDIO.pdb
+C:\Users\braul\source\repos\PRACT1\TEMPERATURA_PROMEDIO\obj\Debug\TEMPERATURA_PROMEDIO.exe
+C:\Users\braul\source\repos\PRACT1\TEMPERATURA_PROMEDIO\obj\Debug\TEMPERATURA_PROMEDIO.pdb
