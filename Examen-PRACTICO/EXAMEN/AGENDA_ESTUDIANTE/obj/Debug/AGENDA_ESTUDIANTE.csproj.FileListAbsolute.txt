@@ -1,0 +1,16 @@
+C:\Users\Dr. Aurelio Mex Mex\Desktop\Examen-PRACTICO\EXAMEN\AGENDA_ESTUDIANTE\obj\Debug\AGENDA_ESTUDIANTE.csproj.AssemblyReference.cache
+C:\Users\Dr. Aurelio Mex Mex\Desktop\Examen-PRACTICO\EXAMEN\AGENDA_ESTUDIANTE\obj\Debug\AGENDA_ESTUDIANTE.Form1.resources
+C:\Users\Dr. Aurelio Mex Mex\Desktop\Examen-PRACTICO\EXAMEN\AGENDA_ESTUDIANTE\obj\Debug\AGENDA_ESTUDIANTE.Properties.Resources.resources
+C:\Users\Dr. Aurelio Mex Mex\Desktop\Examen-PRACTICO\EXAMEN\AGENDA_ESTUDIANTE\obj\Debug\AGENDA_ESTUDIANTE.csproj.GenerateResource.cache
+C:\Users\Dr. Aurelio Mex Mex\Desktop\Examen-PRACTICO\EXAMEN\AGENDA_ESTUDIANTE\obj\Debug\AGENDA_ESTUDIANTE.csproj.CoreCompileInputs.cache
+C:\Users\braul\Downloads\Examen-PRACTICO\EXAMEN\AGENDA_ESTUDIANTE\obj\Debug\AGENDA_ESTUDIANTE.csproj.AssemblyReference.cache
+C:\Users\braul\Downloads\Examen-PRACTICO\EXAMEN\AGENDA_ESTUDIANTE\obj\Debug\AGENDA_ESTUDIANTE.csproj.SuggestedBindingRedirects.cache
+C:\Users\braul\Downloads\Examen-PRACTICO\EXAMEN\AGENDA_ESTUDIANTE\obj\Debug\AGENDA_ESTUDIANTE.Form1.resources
+C:\Users\braul\Downloads\Examen-PRACTICO\EXAMEN\AGENDA_ESTUDIANTE\obj\Debug\AGENDA_ESTUDIANTE.Properties.Resources.resources
+C:\Users\braul\Downloads\Examen-PRACTICO\EXAMEN\AGENDA_ESTUDIANTE\obj\Debug\AGENDA_ESTUDIANTE.csproj.GenerateResource.cache
+C:\Users\braul\Downloads\Examen-PRACTICO\EXAMEN\AGENDA_ESTUDIANTE\obj\Debug\AGENDA_ESTUDIANTE.csproj.CoreCompileInputs.cache
+C:\Users\braul\Downloads\Examen-PRACTICO\EXAMEN\AGENDA_ESTUDIANTE\bin\Debug\AGENDA_ESTUDIANTE.exe.config
+C:\Users\braul\Downloads\Examen-PRACTICO\EXAMEN\AGENDA_ESTUDIANTE\bin\Debug\AGENDA_ESTUDIANTE.exe
+C:\Users\braul\Downloads\Examen-PRACTICO\EXAMEN\AGENDA_ESTUDIANTE\bin\Debug\AGENDA_ESTUDIANTE.pdb
+C:\Users\braul\Downloads\Examen-PRACTICO\EXAMEN\AGENDA_ESTUDIANTE\obj\Debug\AGENDA_ESTUDIANTE.exe
+C:\Users\braul\Downloads\Examen-PRACTICO\EXAMEN\AGENDA_ESTUDIANTE\obj\Debug\AGENDA_ESTUDIANTE.pdb
